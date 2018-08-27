@@ -14,14 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Arts & Algorithms
-# email: your-email@example.com
+author: Katy Gero and Eamonn Bell
+email: kig2104@columbia.edu
+email1: epb2125@columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This project is being run in the fall of 2018 at Columbia University.
   It is supported by funding from the Center for Science and Society 
   at Columbia University, under the Seed Grants for Interdisciplinary Research 
   program.
-baseurl: "/artalgo" # the subpath of your site, e.g. /blog
-url: "www.katygero.com" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/artalgo" # the subpath of your site, e.g. /blog
+# url: "www.katygero.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: ""
+github_repo: kgero/artalgo
 # twitter_username: /#artaglo
 # github_username:  kgero/artalgo
 
@@ -30,6 +35,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.md
+  - conduct.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
