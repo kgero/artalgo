@@ -22,10 +22,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   It is supported by funding from the Center for Science and Society 
   at Columbia University, under the Seed Grants for Interdisciplinary Research 
   program.
-# baseurl: "/artalgo" # the subpath of your site, e.g. /blog
-# url: "www.katygero.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""
-url: ""
+baseurl: "/artalgo" # the subpath of your site, e.g. /blog
+url: "www.katygero.com" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: ""
+# url: ""
 github_repo: kgero/artalgo
 # twitter_username: /#artaglo
 # github_username:  kgero/artalgo
