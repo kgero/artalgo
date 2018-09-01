@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-27T12:46:49-04:00</updated><id>http://localhost:4000/</id><title type="html">Arts &amp;amp; Algorithms</title><subtitle>This project is being run in the fall of 2018 at Columbia University. It is supported by funding from the Center for Science and Society  at Columbia University, under the Seed Grants for Interdisciplinary Research  program.</subtitle><author><name>Katy Gero and Eamonn Bell</name></author><entry><title type="html">Participants and Reading List</title><link href="http://localhost:4000/into/2018/08/20/participants.html" rel="alternate" type="text/html" title="Participants and Reading List" /><published>2018-08-20T11:56:15-04:00</published><updated>2018-08-20T11:56:15-04:00</updated><id>http://localhost:4000/into/2018/08/20/participants</id><content type="html" xml:base="http://localhost:4000/into/2018/08/20/participants.html">&lt;h3 id=&quot;participants&quot;&gt;Participants&lt;/h3&gt;
+
+&lt;p&gt;me, myself, and I&lt;/p&gt;
+
+&lt;h3 id=&quot;reading-list&quot;&gt;Reading list&lt;/h3&gt;
+
+&lt;h4 id=&quot;meeting-1-xyz&quot;&gt;Meeting 1: xyz&lt;/h4&gt;
+
+&lt;p&gt;Lopes, Dominic. 2010. A Philosophy Of Computer Art, London: Routledge&lt;/p&gt;
+
+&lt;p&gt;Anders Hoff does rad work using generative algorithms to create lichen, trees, etc https://inconvergent.net, Amit Patel of Red Blob Games, who talks a lot about world building https://www.redblobgames.com/, Zach Lieberman of the School of Poetic Computation http://sfpc.io/people/zach-lieberman/ (but dang I am very bummed to find all the people I know in this field are men)&lt;/p&gt;
+
+&lt;p&gt;Algorithms of Oppression by Safiya Noble&lt;/p&gt;
+
+&lt;p&gt;Can I do further research a revert shortly?&lt;/p&gt;
+
+&lt;p&gt;Not sure if this is relevant: https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1002/geo2.15&lt;/p&gt;
+
+&lt;p&gt;https://www.cambridge.org/core/journals/journal-of-the-society-for-american-music/article/music-as-a-technology-of-surveillance/93CD1408A9FF2DBD3DDC93A9148752F7&lt;/p&gt;
+
+&lt;h4 id=&quot;meeting-2-abc&quot;&gt;Meeting 2: abc&lt;/h4&gt;
+
+&lt;p&gt;https://arxiv.org/pdf/1703.10593.pdf&lt;/p&gt;
+
+&lt;p&gt;Cycle consistency is a very useful technique that can map unpaired data from domain A to domain B and back. This can be used for example to make photographs that look like they were painted by Monet or pop songs that sound like Bach.&lt;/p&gt;
+
+&lt;p&gt;https://futurism.com/contest-creative-robots-fine-art/&lt;/p&gt;
+
+&lt;p&gt;Prof. Zoe Strother’s work may be of interest: either chapter 5 of Inventing Masks or a chapter from Markov and Russian Primitivism; Clapperton Mavhunga (MIT) also has several articles on Science and Technology Studies&lt;/p&gt;
+
+&lt;p&gt;Gerard Assayag (2015) “Creative Symbolic Interaction” https://hal.archives-ouvertes.fr/hal-01146734/document&lt;/p&gt;
+
+&lt;p&gt;George Lewis (2000) “Too Many Notes: Computers, Complexity and Culture in Voyager” https://www.mitpressjournals.org/doi/pdfplus/10.1162/096112100570585&lt;/p&gt;
+
+&lt;p&gt;For a more technical viewpoint, looking at the math and computer science of robotic learning, I recommend the Springer Handbook of Robotics, which has a significant section on learning robots and things that can be achieved with them, explaining the extent machine learning can reach.&lt;/p&gt;
+
+&lt;p&gt;https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39&lt;/p&gt;
+
+&lt;p&gt;“Introduction: A Musico-Logical Offering”, “Chapter 1: The MU Puzzle” and “Chapter 11: Brains and Thoughts” of Godel Escher Bach. Artists to see include Man Ray and James Nolan Gandy. “Newton” by William Blake is also an emblematic painting of this whole discussion.&lt;/p&gt;
+
+&lt;h4 id=&quot;meeting-3-jkl&quot;&gt;Meeting 3: jkl&lt;/h4&gt;
+
+&lt;p&gt;David Bamman: “Learning Latent Personas of Film Characters” http://www.anthology.aclweb.org/P/P13/P13-1035.pdf&lt;/p&gt;
+
+&lt;p&gt;The master algorithm by Pedro Domingos&lt;/p&gt;
+
+&lt;p&gt;Sol Lewitt’s ‘Notes on Conceptual Art’, Petran Kockelkoren ‘Technology: Art, Fairground and Theatre’&lt;/p&gt;
+
+&lt;p&gt;I work at Facebook in NY. I’d be happy to share some of the work we do in the NY office generating art through backwards propagation via neural nets. High level covered in writeup such as https://www.google.com/amp/s/www.engadget.com/amp/2015/06/20/facebook-and-google-ai-image-creation/&lt;/p&gt;
+
+&lt;p&gt;Ian Bogost Unit Operations&lt;/p&gt;
+
+&lt;p&gt;https://www.amazon.com/gp/product/B002QXMGM4/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i9&lt;/p&gt;
+
+&lt;p&gt;The paper at the top of my (biased) list rn is https://arxiv.org/abs/1807.00181&lt;/p&gt;
+
+&lt;p&gt;I would recommend Geek Sublime by Vikram Chandra https://www.amazon.com/Geek-Sublime-Beauty-Code/dp/1555976859&lt;/p&gt;
+
+&lt;p&gt;I would also recommend this article from The New Yorker about analyzing Shakespeare and put the question to the group as to whether it is reductive to equate artistic production with the seeming sterility of code: https://www.newyorker.com/tech/elements/the-shakespeare-algorithm&lt;/p&gt;
+
+&lt;p&gt;https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/&lt;/p&gt;
+
+&lt;p&gt;I was reading “Goodbye, World! Looking at Art in the Digital Age” this summer and it mentioned The Art and Artificial Intelligence Laboratory at Rutgers which focused Advancing AI Technology in the Digital Humanities. Here is a link to the work they do:&lt;/p&gt;
+
+&lt;p&gt;https://sites.google.com/site/digihumanlab/research&lt;/p&gt;</content><author><name>Katy Gero and Eamonn Bell</name></author><summary type="html">Participants</summary></entry></feed>
