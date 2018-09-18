@@ -23,8 +23,8 @@ All meetings take place on Wednesdays, from 7-9pm.
 
 This meeting introduces participants to various definitions of “algorithm,” from historical to contemporary mathematics and from computer science. Readings will be chosen to reflect multiple understandings of the term but also to serve as concrete examples of the diversity of modes of argument, standards of proof, notations, and intellectual priorities within the scientific and artistic communities.
 
-* Striphas, “[Algorithmic Culture](https://github.com/kgero/artalgo/_site/readings/Algorithmic_culture.pdf)”
-* Cormen et al., “[The Role of Algorithms in Computing](https://github.com/kgero/artalgo/_site/readings/The_Role_of_Algorithms_in_Computing.pdf)”
+* Striphas, “[Algorithmic Culture](https://github.com/kgero/artalgo/blob/master/_site/readings/Algorithmic_culture.pdf)”
+* Cormen et al., “[The Role of Algorithms in Computing](https://github.com/kgero/artalgo/blob/master/_site/readings/The_Role_of_Algorithms_in_Computing.pdf)”
 * Karpathy, “[The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)”
 
 Additionally, we’ve selected some pre-computer artwork that is algorithmic in nature to peruse:
