@@ -18,6 +18,8 @@ This website serves as a public record for a reading group on art and algorithms
 
 All meetings take place on Wednesdays, from 7-9pm.
 
+We will be holding a symposium for the greater Columbia community on **7 Dec, 1-4pm**. More details to come.
+
 <a name="m1"></a>
 ### Meeting 1: "Algorithm"
 
@@ -39,6 +41,24 @@ Additionally, we’ve selected some pre-computer artwork that is algorithmic in 
 ### Meeting 2: Garbage in; garbage out?
 
 Some generative models of art require large amounts of training data (in this case, pre-existing artworks) before they can be used effectively. If this training data is of poor quality or does not accurately represent the domain being modeled, the algorithm may fail to produce convincing outputs. Readings will capture the difficulty of arriving at intersubjectively acceptable criteria for evaluating the quality of both input data and generated output.
+
+- Elgammal et al., [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](http://arxiv.org/abs/1706.07068), 2017
+- Wiggins and Bhattacharya, [Mind the gap: an attempt to bridge computational and neuroscientific approaches to study creativity](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00540/full), 2014
+- Bolukbasi et al., [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](http://papers.nips.cc/paper/6227-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings), 2016
+- Parrish, [Poetic Sound Similarity Vectors Using Phonetic Features](https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15879/15227), 2017
+
+Extras: 
+
+- [Visual Chatbot Demo](http://demo.visualdialog.org/)
+- [Text-to-Image Generation Demo](http://t2i.cvalenzuelab.com/)
+- [Sunspring](https://www.youtube.com/watch?v=LY7x2Ihqjmc) A Sci-Fi Short Film Starring Thomas Middleditch
+- Parrish, [Exploring (Semantic) Space With (Literal) Robots](https://vimeo.com/134734729), Talk at Eyeo 2015
+- Firth, [The Techniques of Semantics](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-968X.1935.tb01254.x), 1935
+- Harris, [Distributional Structure](https://www.tandfonline.com/doi/pdf/10.1080/00437956.1954.11659520), 1954
+
+A timely article from 25 Sept, 2018!
+
+- Schneider and Rea, [Has Artificial Intelligence Given Us the Next Great Art Movement? Experts Say Slow Down, the ‘Field Is in Its Infancy’](https://news.artnet.com/art-world/ai-art-comes-to-market-is-it-worth-the-hype-1352011), 2018
 
 <a name="m3"></a>
 ### Meeting 3: Artificial interlocutors
