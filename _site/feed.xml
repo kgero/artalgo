@@ -1,1 +1,242 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-28T10:21:04-04:00</updated><id>http://localhost:4000/</id><title type="html">Arts &amp;amp; Algorithms</title><subtitle>This project is being run in the fall of 2018 at Columbia University. It is supported by funding from the Center for Science and Society  at Columbia University, under the Seed Grants for Interdisciplinary Research  program.</subtitle><author><name>Katy Gero and Eamonn Bell</name></author><entry><title type="html">Participants</title><link href="http://localhost:4000/into/2018/08/20/participants.html" rel="alternate" type="text/html" title="Participants" /><published>2018-08-20T11:56:15-04:00</published><updated>2018-08-20T11:56:15-04:00</updated><id>http://localhost:4000/into/2018/08/20/participants</id><content type="html" xml:base="http://localhost:4000/into/2018/08/20/participants.html">&lt;h3 id=&quot;participants&quot;&gt;Participants&lt;/h3&gt;</content><author><name>Katy Gero and Eamonn Bell</name></author><summary type="html">Participants</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-14T10:17:48-04:00</updated><id>http://localhost:4000/</id><title type="html">Arts &amp;amp; Algorithms</title><subtitle>This project is being run in the fall of 2018 at Columbia University. It is supported by funding from the Center for Science and Society  at Columbia University, under the Seed Grants for Interdisciplinary Research  program.</subtitle><author><name>Katy Gero and Eamonn Bell</name></author><entry><title type="html">Meeting 1: ‘Algorithm’</title><link href="http://localhost:4000/into/2018/08/21/mtg1.html" rel="alternate" type="text/html" title="Meeting 1: 'Algorithm'" /><published>2018-08-21T11:56:15-04:00</published><updated>2018-08-21T11:56:15-04:00</updated><id>http://localhost:4000/into/2018/08/21/mtg1</id><content type="html" xml:base="http://localhost:4000/into/2018/08/21/mtg1.html">&lt;ul&gt;
+  &lt;li&gt;Jeanne - French Dept, 1st yr PhD&lt;/li&gt;
+  &lt;li&gt;Reid - Fiction major, 1st yr PhD&lt;/li&gt;
+  &lt;li&gt;Oscar - CS Dept, generative modeling&lt;/li&gt;
+  &lt;li&gt;Audrey - French, musicology&lt;/li&gt;
+  &lt;li&gt;Liz - Chemistry, 6th yr PhD&lt;/li&gt;
+  &lt;li&gt;Veronica - Chem Eng, MS&lt;/li&gt;
+  &lt;li&gt;Paula - historical music&lt;/li&gt;
+  &lt;li&gt;Eamonn - Music, 6th yr PhD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Theme I&lt;/strong&gt;: What’s the difference between algorithm generated art and pre-computer artwork?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Theme II&lt;/strong&gt;: Recursion in algorithm generated art vs. pre-computer artwork&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+Reading 1+2 are approaching the definition ‘algorithm’ in two ways; culture is also an important word.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+Reading 3 was selected to capture the hype around machine learning.&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reid&lt;/strong&gt;:
+Question on neural network: does it copy every character and adjust probability afterwards?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oscar&lt;/strong&gt;:
+Select the model, often problem dependent. Use specific loss function to achieve minimal loss, but also not to overfit e.g. only training on one specific breed of cat, instead of a good generalization.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica&lt;/strong&gt;:
+Does sample size matter w.r.t. Overfitting?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O’s answer&lt;/strong&gt;: yup, you want to capture the whole of it&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+ML feels impenetrable, while Sol Le Witt’s wall drawing instructions feel extremely simple. What do you feel is the difference between the two?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liz&lt;/strong&gt;: (answering to Katy)
+Where is the artist locating themselves: do they invite participation? e.g. heart piece (performance - improv could happen, and open ended; and layman can.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+Sol Le Witt instructions are written in natural language, so it’s easy to perceive by layman, and you’d be able to participate – machine learning doesn’t necessarily enable that, since you would need to have expertise.&lt;/p&gt;
+
+&lt;p&gt;Generating artwork via computer shouldn’t be exclusive to people who’s proficient with it; doesn’t mean that work generated by computer isn’t participatory.
+We can’t really say how the training samples are going to affect the results.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica&lt;/strong&gt;:
+Transparency of the process in ‘pure’ arts
+Whilst in algorithmic culture (‘look what Amazon is doing, how dare they’), laymen of CS or ML wouldn’t be able to create.
+Whilst you have this connection with painting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oscar&lt;/strong&gt;:
+Algorithms are fundamentally not creative; whereas revisiting poetry or music could open new possibilities; algorithms have problem ‘generating’ or ‘creating’, it’s actually the human being behind it that’s thinking about new problems.
+Algorithms are simply solving it.&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+The definition of ‘creativity’.
+What’s the criteria?
+She says that algorithms can surprise us, but not necessarily consistently.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica + Oscar&lt;/strong&gt;:
+Open-endedness is more there, in actual creative process.
+Doing math/research, is creative.
+Whilst algorithms can suffice up to certain points, but not beyond it; it would only work to the point the human being instructs it to do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy + Oscar&lt;/strong&gt;:
+novelty search helps to find different niches (used novelty algorithms to train walkers), using the algorithm to optimize different objectives. There might be certain solutions that are suboptimal yet you’re stuck in, with different niches, you’ll be able to get out of the local minima (or reach local maxima??)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica&lt;/strong&gt;:
+What is the objective function?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+Something about correctness (computing vs ..??)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liz&lt;/strong&gt;:
+What’s the definition of culture exactly?
+Her take: Human expression that involves activities + Distinctive ways of life.
+Yet in case of the Amazon case, algorithm generated answers.
+What’s the definition of computer? It has a method and it has an end.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+If the algorithm is too slow then it’s not going to be useful.
+Efficiency over accuracy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oscar&lt;/strong&gt;:
+Do you think humans have objective function and the need to fulfill something?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+(Answering to Oscar)
+Loss vs. objective function. It’s important that you involve in the quantitative aspect to it when thinking about issues as such. We do have objectives in life, yet it’s hard (yet not impossible) to put a number to it.&lt;/p&gt;
+
+&lt;p&gt;Whilst algorithms could potentially quantify it; f humans are actually an algorithm
+we would constantly reflecting on the work + empirically adjusting for it.
+Not waking up in the morning and actually quantify if today’s going to be ‘5 times harder’ (or earn 5 times more salary).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica&lt;/strong&gt;:
+From the readers’ perspective, you could interpret it differently than the writers could initially intend.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reid&lt;/strong&gt;:
+If you have a random block of words, you could read emotion and meaning to it: which is creativity of itself. Meaning is still there regardless of whether it’s a qualified one. As long as you respond to it with a creative act (interpreting it in your own way).&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+Truth is somewhere in the middle. It’s not necessarily the ‘Amazon people’, but rather something in between. Algorithms could take one error and magnify it; Sol’s painting cannot be mass produced, whilst algorithms can.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paula&lt;/strong&gt;:
+I’m allergic to the idea of efficiency (separates arts from things that could potentially be bad).
+e.g. some piece of music isn’t efficient at all, and there wasn’t the goal of making it efficient.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reid&lt;/strong&gt;:
+(in response to Paula) 
+Efficiency in corporate sense really stems from a practical sense (defending ‘efficiency’)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+(in response to Paula)
+Writing novels real fast; could be pulp fiction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jeanne&lt;/strong&gt;:
+Discomfort with things that is completely created by machine.
+More comfortable w/ pre-computer algorithms.
+Human is still the real creator, whilst algorithms are not.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audrey&lt;/strong&gt;:
+It’s really interesting to think about who is the actual author of this piece of art.
+Human or algorithm?
+Who thinks that and why do they think that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liz&lt;/strong&gt;:
+More physical effort involved w/ ‘pure’ art.
+Whilst w/ algorithms, it’s just ‘pressing the button’.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jeanne&lt;/strong&gt;:
+Writers + scientists group.
+Came up w/ constraints to create literal things.
+A writer wrote the entire book w/o letter ‘E’. 10 sonnets, all have the same rhyme in the end (hundred thousand billion poems).&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Linbi&lt;/strong&gt;:
+Who’s the actual creator?
+Code is also created by human. 
+Physical vs. intellectual effort - on Liz’s point. Brain as a computational model (so in that sense also algorithmic).&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica&lt;/strong&gt;:
+Conscience vs. algorithms.
+If you could model the brain as the machine, then what’s the distinction between the two then?
+In some sense we’re efficient machines.
+Whilst for computers,
+the time to spit out shitty Shakespeare could be the six month of painful writing for them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reid&lt;/strong&gt;:
+Recursion.
+You could start w/ something random, and you’d go back at them, then you’ll go forward, but it’ll be back to the recurring theme again.
+Will distribute the article.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liz&lt;/strong&gt;:
+Less developed writers write one draft and they’ll be done.
+Whilst matured writer would go back to the draft and modify again, being recursive.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paula&lt;/strong&gt;:
+Music notation sometimes are viewed as algorithmic adjacent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+Maybe we can talk about recursion.
+Recursion is not just the repetition of different things, it’s the opportunity to reflect ourselves
+(Katy joined in:) 
+It’s also different than feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liz&lt;/strong&gt;:
+Q: how would you describe the neural network, since the word recursive is also mentioned there?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+(Answering to Liz)
+Explaining neural networks on the board.
+Recursiveness could happen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica&lt;/strong&gt;:
+For reading 3 - What’s the assumption that ‘the shakespeare example’ made in order to make it work?
+(Answering to Eamonn:) 
+Input and output layer are representations of the alphabet, and that’s it.
+There’s still assumption that certain letter would precede or follow another one simply based on past literature.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liz&lt;/strong&gt;:
+‘Cause you didn’t program any grammar in, you simply have the prior in and the algorithm would generate it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+‘The evolution of samples while training’.
+You put letters in and grammar came out.
+When the algorithm is young, it makes no sense; yet as it ages, the output actually starts to make sense.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audrey&lt;/strong&gt;:
+Q - Where does ‘natural language’ come from?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+(Answering to Audrey) could be from information theory&lt;/p&gt;
+
+&lt;p&gt;//&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+Spin off on Reading 3’s example (wikipedia + code). Rhetoric of the article: Why do you think he’s chosen wikipedia + code + shakespeare as examples? ‘Cause you could potentially choose other things.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+(Answering to Eamonn) 
+‘Cause that’s the things that worked really well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica&lt;/strong&gt;:
+(Answering to Eamonn)
+Trying to produce a true statement.
+Whereas in C, Linux, it could be more logical; and it tend to fail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reid&lt;/strong&gt;:
+(Answering to Eamonn) 
+Read it as different format, and it even put brackets in the right spot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+(Answering to himself)
+‘Cause you have really large datasets and you could potentially train them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veronica&lt;/strong&gt;:
+(Answering to Eamonn again)
+He’s becoming more and more radical, and it’s the brand new perspective.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;: 
+(Remarking on the colorful rows at the end)
+What is thinking about, since there’s high activation in one neuron.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eamonn&lt;/strong&gt;:
+Other attempts on music. Sounded pretty bad (Paula concurs). Goldberg’s approach on grammar. Question is:
+Do you tell the algorithm what we already know about the grammar? Or you have them figure it out themselves?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Katy&lt;/strong&gt;:
+The computational ppl kicked the linguists out; but now ppl are thinking of bringing the linguists in again. On what aspect of the expertise they should be using.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Paula&lt;/strong&gt;:
+One partiata that was actually inspired by Sol’s painting.&lt;/p&gt;</content><author><name>Katy Gero and Eamonn Bell</name></author><summary type="html">Jeanne - French Dept, 1st yr PhD Reid - Fiction major, 1st yr PhD Oscar - CS Dept, generative modeling Audrey - French, musicology Liz - Chemistry, 6th yr PhD Veronica - Chem Eng, MS Paula - historical music Eamonn - Music, 6th yr PhD</summary></entry><entry><title type="html">Participants</title><link href="http://localhost:4000/into/2018/08/20/participants.html" rel="alternate" type="text/html" title="Participants" /><published>2018-08-20T11:56:15-04:00</published><updated>2018-08-20T11:56:15-04:00</updated><id>http://localhost:4000/into/2018/08/20/participants</id><content type="html" xml:base="http://localhost:4000/into/2018/08/20/participants.html">&lt;h3 id=&quot;participants&quot;&gt;Participants&lt;/h3&gt;</content><author><name>Katy Gero and Eamonn Bell</name></author><summary type="html">Participants</summary></entry></feed>
