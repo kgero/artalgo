@@ -6,6 +6,25 @@ layout: home
 list_title: Notes
 ---
 
+
+
+![flyer](flyer1.png)
+
+We will be holding a symposium for the NYC community on **7 Dec, 1-4pm** reflecting on a semester of discussing and debating the technical and critical issues surrounding algorithms that generate art.
+
+* 1-2pm: Keynote by Nick Monfort
+* 2-3:30pm: Lightning talks by Columbia grad students
+* 3:30pm-4pm: Wrap up and reflections
+* 4pm-5pm: Catered reception
+
+Winning art from the DSI Data Art Contest will be displayed.
+
+This event is supported by:
+
+- [The Center for Science and Society at Columbia University](https://scienceandsociety.columbia.edu/)
+- [The Data, Media and Society Center at Columbia University](https://industry.datascience.columbia.edu/center/new-media)
+- [The Brown Institute for Media Innovation](https://brown.columbia.edu/)
+
 # A Cross-Disciplinary Reading Group
 
 This website serves as a public record for a reading group on art and algorithms being held this fall 2018 for the Columbia community. On this page you'll find an overview of five meetings held, as well as links to in-depth notes from our discussions.
@@ -16,9 +35,7 @@ This website serves as a public record for a reading group on art and algorithms
 * [Meeting 4](#m4) (7 Nov 2018)
 * [Meeting 5](#m5) (28 Nov 2018)
 
-All meetings take place on Wednesdays, from 7-9pm.
 
-We will be holding a symposium for the NYC community on **7 Dec, 1-4pm**. More details to come.
 
 <a name="m1"></a>
 ## Meeting 1: "Algorithm"
@@ -81,6 +98,19 @@ And here are some performances and demos to play with:
 ## Meeting 4: Everything new is old
 
 Recognizing the iterative nature of research entails reckoning with its history of provisional and failed attempts to produce art algorithmically. Readings will examine how the resuscitation of “old science” is facilitated by the appearance of new applications and, relatedly, how classical (and potentially problematic) applications and evaluation regimes—canonical generative task framings, old datasets, and competitions—are used to legitimize new algorithmic arts. 
+
+- [Interactive and generative music: a quagmire for the musical analyst](https://www.cambridge.org/core/books/expanding-the-horizon-of-electroacoustic-music-analysis/interactive-and-generative-music-a-quagmire-for-the-musical-analyst/6A9716D03FFEF31E40565142F706BB92) by Michael Young (2016)
+- [Art in the Sciences of the Artificial](http://eplex.cs.ucf.edu/papers/stanley_leonardo18.pdf) by Kenneth Stanley (2018)
+- [THE COMPLEXITY OF POETIC PATTERN: Recreating Early Work in Machine Translation](http://amodern.net/article/complexity-poetic-pattern/) by Nick Montfort (2018)
+
+And here are a bunch of demos and interactive examples related to these readings:
+
+
+- [Continuator: A musical instrument that answers you in your style](https://www.francoispachet.fr/continuator/)
+- [DeepBach: a Steerable Model for Bach Chorales Generation](https://sites.google.com/site/deepbachexamples/)
+- [Neurogram: picbreeder in javascript](http://otoro.net/neurogram/)
+- [Concrete Perl: A set of four concrete poems realized as 32-character Perl programs, by Nick Montfort](https://nickm.com/poems/concrete_perl/)
+- [Tracery: generate text, graphics and more](http://www.tracery.io/)
 
 <a name="m5"></a>
 ## Meeting 5: Opening black boxes
