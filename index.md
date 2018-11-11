@@ -12,6 +12,8 @@ list_title: Notes
 
 **Join us for a reflection on algorithms that generate art.**
 
+[RSVP on Eventbrite](https://www.eventbrite.com/e/making-art-in-the-age-of-algorithms-symposium-tickets-52381297872).
+
 What is the difference between a set of instructions for a person and a set of instructions for a computer? Is training a neural network an artistic endeavour? How can we analyze a piece of music that can be generated infinitely? In what ways are our preferences mediated by algorithms?
 
 Come see talks, demos, and performances inspired by a semester of debating and discussing the technical and critical issues surrounding algorithms, art, and the act of creation.
