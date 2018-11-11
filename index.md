@@ -8,22 +8,34 @@ list_title: Notes
 
 
 
-![flyer](flyer1.png)
+![flyer](flyer2.png)
 
-We will be holding a symposium for the NYC community on **7 Dec, 1-4pm** reflecting on a semester of discussing and debating the technical and critical issues surrounding algorithms that generate art.
+We will be holding a symposium for the NYC community on **Friday 7 Dec, 1-4pm** reflecting on a semester of discussing and debating the technical and critical issues surrounding algorithms that generate art.
 
-* 1-2pm: Keynote by Nick Monfort
-* 2-3:30pm: Lightning talks by Columbia grad students
-* 3:30pm-4pm: Wrap up and reflections
-* 4pm-5pm: Catered reception
+**1-2pm: Keynote**
 
-Winning art from the DSI Data Art Contest will be displayed.
+Poet & professor of digital media [Nick Montfort](https://nickm.com/) from MIT
+
+**2-3pm: Rapid-fire lightning talks**
+
+- Creativity in automated drug discovery (Oscar Chang)
+- Spotify algorithms (Audrey Amsellem)
+- Recreating geometry using a limited view (David Watkins)
+- Random Walks Through Poetry (Jeanne Devautour and Samuel Boury)
+- Uncanny Display: Algorithmic Art at the Whitney Museum (Liz Bailey)
+- Metaphors are for viewing the paradigm (Katy Gero)
+- Congratulations! You are now an algorithm! (Eamonn Bell)
+
+**3-4pm: Catered reception**
+
+Winning art from the Columbia Data Science Institute Data Art Contest will be displayed.
 
 This event is supported by:
 
 - [The Center for Science and Society at Columbia University](https://scienceandsociety.columbia.edu/)
 - [The Data, Media and Society Center at Columbia University](https://industry.datascience.columbia.edu/center/new-media)
 - [The Brown Institute for Media Innovation](https://brown.columbia.edu/)
+
 
 # A Cross-Disciplinary Reading Group
 
